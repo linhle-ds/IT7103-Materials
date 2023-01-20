@@ -4,6 +4,7 @@ This repository contains learning materials for IT7103 - Practical Data Analytic
 The modules in this course are as follows.
 
 |Module | Course Contents |
+|---|---|
 |01 | Introduction to data analytics |
 |02 | Python programming review	|
 |03 | Introductiont to Pandas |
