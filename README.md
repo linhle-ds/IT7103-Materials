@@ -18,5 +18,6 @@ The modules in this course are as follows.
 |11	| Decision tree, random forest, gradient boosting model|
 |12	| Neural Network |
 
+Grading components in this course include quizzes, lab assignments, midterm exam, final exam, and a final project.
  
  
